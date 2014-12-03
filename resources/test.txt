@@ -1,0 +1,2 @@
+key=hello world!
+asd=lorem ipsum
